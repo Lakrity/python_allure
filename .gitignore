@@ -3,6 +3,4 @@ __pycache__
 .vscode
 .idea
 .pytest_cache
-my_allure_results
-
 doc
